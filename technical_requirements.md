@@ -192,14 +192,14 @@
 Для реализации системы, предлагается следующий стек технологий:
 
 * Бэкенд:
-- Язык Python
-- Фреймворк FastAPI
-- БД PostgreSQL
-- SQLAlchemy ORM
+    - Язык Python
+    - Фреймворк FastAPI
+    - БД PostgreSQL
+    - SQLAlchemy ORM
 
 * Фронтенд:
-- React
-- TypeScript
+    - React
+    - TypeScript
 
 В ходе проекта надо сравнить технические возможности платформ и выбрать выгодную.
 
