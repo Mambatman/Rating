@@ -196,8 +196,7 @@
 - Фреймворк FastAPI
 - БД PostgreSQL
 - SQLAlchemy ORM
-- Alembic для миграций
-- Aiogram для интеграции с Telegram
+
 * Фронтенд:
 - React
 - TypeScript
